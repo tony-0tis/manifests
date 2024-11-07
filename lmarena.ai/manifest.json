@@ -1,0 +1,20 @@
+{
+    "id": "/lmsysChat",
+    "name": "LMARENA chat",
+    "short_name": "LMARENA chat",
+    "description": "Chat with Open Large Language Models",
+    "categories": [
+        "utilities"
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "https://lmarena.ai/",
+    "scope": "https://lmarena.ai/",
+    "icons": [
+        {
+            "src": "https://lmarena.ai/favicon.ico",
+            "sizes": "576x576",
+            "type": "image/svg+xml"
+        }
+    ]
+}
