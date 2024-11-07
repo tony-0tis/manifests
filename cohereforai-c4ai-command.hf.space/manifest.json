@@ -1,0 +1,18 @@
+{
+    "id": "/c4ai-command-r-plus",
+    "name": "C4ai chat",
+    "short_name": "C4ai chat",
+    "description": "Chat c4ai-command-r-plus",
+    "categories": ["utilities"],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "https://cohereforai-c4ai-command.hf.space/",
+    "scope": "https://cohereforai-c4ai-command.hf.space/",
+    "icons": [
+        {
+            "src": "https://0t.is/images/c4ai-chat.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+     ]
+}
