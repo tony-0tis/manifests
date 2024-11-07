@@ -1,0 +1,18 @@
+{
+    "id": "/reka-chat",
+    "name": "Reka.AI chat",
+    "short_name": "Reka.AI chat",
+    "description": "Chat with Reka",
+    "categories": ["utilities"],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "https://chat.reka.ai/chat",
+    "scope": "https://chat.reka.ai/chat",
+    "icons": [
+        {
+            "src": "https://0t.is/images/reka-ai-chat.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        }
+     ]
+}
